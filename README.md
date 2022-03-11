@@ -1,5 +1,3 @@
-# How to run
-
 # Install dependencies
 npm install
 
