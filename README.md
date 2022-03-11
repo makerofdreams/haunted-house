@@ -1,5 +1,3 @@
-## haunted  house using THREE JS
-
 # How to run
 
 # Install dependencies
